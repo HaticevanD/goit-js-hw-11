@@ -46,3 +46,7 @@ export default defineConfig(({ command }) => {
     ],
   };
 });
+
+export default {
+  base: '/goit-js-hw-11/',  
+};
